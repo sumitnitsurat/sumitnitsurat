@@ -35,13 +35,10 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   </a>
   
   
-  ### Compact Language Card Layout
+   - Top languages
 
-  You can use the `&layout=compact` option to change the card design.
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnitsurat)](https://github.com/sumitnitsurat/github-readme-stats)
 
-  ```md
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  ```
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
