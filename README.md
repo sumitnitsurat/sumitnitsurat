@@ -33,6 +33,15 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="https://github.com/sumitnitsurat/handle-path-oz">
     <img width="55%" align="right" alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=sumitnitsurat&show_icons=true&hide_border=true" />
   </a>
+  
+  
+  ### Compact Language Card Layout
+
+  You can use the `&layout=compact` option to change the card design.
+
+  ```md
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ```
 
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
@@ -43,7 +52,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ethereum/ethereum-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
