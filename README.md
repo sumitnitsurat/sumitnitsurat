@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Sumit Chaudhari, a Developer 🚀 from India.
+## Hi, I'm Sumit Chaudhari, a Developer 🚀 working in Singapore.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -31,13 +31,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/sumitnitsurat/handle-path-oz">
-    <img width="55%" align="right" alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=sumitnitsurat&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Sumit's github stats" src="https://github-readme-stats.vercel.app/api?username=sumitnitsurat&show_icons=true&theme=radical&count_private=true" />
   </a>
   
   
    - Top languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnitsurat)](https://github.com/sumitnitsurat/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnitsurat&langs_count=5&hide=Objective-C,C++,C,Makefile)](https://github.com/sumitnitsurat/github-readme-stats)
 
 
   <!-- Your languages and tools. Be careful with the alignment. 
