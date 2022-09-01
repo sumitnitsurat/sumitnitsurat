@@ -17,7 +17,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Shell Accuport](https://portal.accuport.com);
+- 👨🏽‍💻 I’m currently working on [NTUC Health](https://my.ntuchealth.sg/);
 - 🌱 I’m currently learning AWS; 
 - 👯 I’m looking to collaborate on [Blockchain Projects] 🤝;
 - 🤔 I’m looking for help with Cloud Infra 😭;
