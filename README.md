@@ -19,8 +19,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [NTUC Health](https://my.ntuchealth.sg/);
 - 🌱 I’m currently learning AWS; 
-- 👯 I’m looking to collaborate on [Blockchain Projects] 🤝;
-- 🤔 I’m looking for help with Cloud Infra 😭;
+- 👯 I’m looking to collaborate on [Disrupting Projects] 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sumit.nitsurat@gmail.com;
 
@@ -43,6 +42,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
